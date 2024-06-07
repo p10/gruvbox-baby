@@ -321,7 +321,7 @@ function M.setup(config)
     EasyMotionShade = { fg = c.NONE },
     Visual = { bg = c.medium_gray },
     MultiCursor = { bg = c.background_light },
-    Cursor = { bg = c.medium_gray, fg = c.NONE },
+    Cursor = { bg = c.background_light, fg = c.NONE },
 
     -- mix
     GitSignsCurrentLineBlame = { fg = c.medium_gray },
